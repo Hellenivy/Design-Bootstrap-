@@ -1,0 +1,208 @@
+
+body{
+	background-color: #b5b5b3
+}
+
+.jina{
+	background-color: #081421;
+	height: 50px;
+	margin-left: 80px;
+	text-align: center;
+	color: #fff;
+	margin-right: 119px;
+}
+.cover{
+	background-color: #1a2736;
+	width: 1085px;
+	height: 200px;
+	margin-left: 80px;
+	margin-right:0px; 
+	
+}
+
+.site{
+	
+	text-align: center;
+	color: #fff;
+	padding-top: 20px;
+}
+.more{
+	color: #ded035;
+	margin-left: 340px;
+
+}
+
+.what{
+	margin-left: 30px;
+}
+
+.about{
+	background-color:#c4ac10;
+	width: 1000px;
+	height: 50px;
+	margin-top: 100px;
+	margin-left: 40px;
+	padding-top: 10px;
+	padding-left: 12px;
+}
+
+.par{
+	padding-top: -12px;
+	margin-left: 530px;
+	margin-right: 230px;
+	margin-top: 100px;
+	width: 400px;
+
+}
+.image{
+	margin-top: -482px; 
+	margin-left: 80px;
+}
+.ivy{
+	background-color: #fff;
+	width: 1000px;
+	height: 500px;
+	margin-left: 120px;
+	margin-top: -19.8px;
+}
+/*.hobbies{
+	width: 370px;
+	height: 40px;
+	background-color:#c4ac10;
+	margin-left: -0.5px;
+	margin-top: 20px;
+}
+.goals{
+	width: 400px;
+	height: 40px;
+	background-color: #c4ac10;
+	margin-left: 720px;
+	margin-top: -175px;
+}
+.hobbies1{
+	margin-left: 160px;
+	margin-left:10px;
+	float: left;
+
+}
+.goals2{
+	margin-top: -2px;
+	margin-left: 720px;
+}*/
+table{
+  border:1px solid #dddddd;
+  border-collapse:collapse;
+  width:1008px;
+  font-family:arial,sans-serif;
+  margin-left: -20px;
+  text-align:left;
+  margin-left: 120px;
+  padding-left: 30px;
+}
+th{
+  padding:20px;
+}
+tr{
+  border-bottom:1px solid #dddddd;
+}
+th{
+  background-color:#c4ac10;
+  color:black;
+}
+td{
+  border-right:1px solid #dddddd;
+
+}
+td{
+  padding:8px;
+}
+td{
+  background-color:white;
+}
+/*.all{
+	background-color: #fff;
+	width: 370px;
+	height: 280px;
+	margin-left:118px;
+	bottom: 2px;
+	float-left
+	margin-right: 10px;
+}
+.all1{
+}*/
+.contacts{
+	background-color:#1a2736; 
+}
+.root{
+    color:white;
+    text-align: left;
+    margin-left: 78px;
+}
+.nine{
+    color: white;
+    text-align: left;
+    margin-left: 58px;
+}
+.word{
+    color: yellow;
+    text-align: left;
+    margin-left: 68px;
+}
+.hobbies{
+
+  justify-content:  center;
+  background-color: white;
+  min-width: 490px;
+  min-height:270px;
+  padding-bottom: 50px;
+  margin-right: 710px;
+  margin-left: 120px;
+  float:left;
+  margin-bottom: 30px;
+  margin-top:37px;
+  padding-right: 0px;
+  font-size: 20px;
+
+
+}
+.p{
+  margin-left: -1px;
+  margin-right: -1px;
+  color:#364052;
+  font-size: 30px;
+  background-color:#c4ac10;
+  padding:  10px;
+  margin-top: 0px;
+  text-align:left;
+  font-weight: bold;
+
+
+}
+.goals{
+  justify-content:  center;
+  background-color: white;
+  min-width: 490px;
+  min-height:270px;
+  padding-bottom: 60px;
+  margin-right: 200px;
+  margin-left: 633px;
+  float:left;
+  margin-bottom: 20px;
+  margin-top:-390px;
+  font-size: 20px;
+  margin-top: -330px;
+
+
+}
+.p1{
+  margin-left: -1px;
+  margin-right: -1px;
+  color:#364052;
+  font-size: 30px;
+  background-color: #c4ac10;
+  padding:  10px;
+  margin-top: 0px;
+  font-weight: bold;
+  text-align:left;
+}
+
